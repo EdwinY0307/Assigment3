@@ -8,3 +8,6 @@ Data set- the data set were the initial images I took and used to train the mode
 Why this process, result, and data set- This project began with me training the notebook to generate images of metal sculptures. But as the generation began I noticed that the ai was misunderstanding my prompt of "people looking at a metal sculpture in a exhibit". Instead it generated me images of sculputres of people made with metal. This result gave me the idea of making a fake ai artist who's work slowly exposes them for being fake.
 
 Brief reflection about the outcome: what were your intentions? What do you want to provoke? and what are your inspirations? Overall this project opened my eyes to the possibilites of ai and how that could inspire different elements of my work. I have always been against using ai in creative work because I feel that those works can all be made by a real person instead, but I now realize that without the use of ai my project would have been completely different. If it wasn't for the ai misunderstanding my prompt then my project may have looked completely different. 
+
+Video: https://github.com/user-attachments/assets/3e74ce76-c2fc-457f-8896-7c9f1e634768
+
